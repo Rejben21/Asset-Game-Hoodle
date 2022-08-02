@@ -78,6 +78,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -87,8 +88,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -109,6 +110,8 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
@@ -602,6 +605,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      trap_suspended_anim_strip_18_14: -2600381812262764595
+      trap_suspended_anim_strip_18_4: -4200403697739519434
+      trap_suspended_anim_strip_18_5: 5422600506294722241
+      trap_suspended_anim_strip_18_17: -8393683731355118909
+      trap_suspended_anim_strip_18_10: -2354111680471342376
+      trap_suspended_anim_strip_18_2: 9059850130054237318
+      trap_suspended_anim_strip_18_8: 2671618440806799345
+      trap_suspended_anim_strip_18_15: 6643189836663336534
+      trap_suspended_anim_strip_18_3: 3895677650216918021
+      trap_suspended_anim_strip_18_0: 6782458123959412808
+      trap_suspended_anim_strip_18_12: 7787030385759691179
+      trap_suspended_anim_strip_18_7: 188567066741601211
+      trap_suspended_anim_strip_18_13: -6752857629480871278
+      trap_suspended_anim_strip_18_1: 4429818497583414520
+      trap_suspended_anim_strip_18_11: 4521207015666020279
+      trap_suspended_anim_strip_18_9: -2239109628542883412
+      trap_suspended_anim_strip_18_6: -3458414997968490293
+      trap_suspended_anim_strip_18_16: -5641805808809206225
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

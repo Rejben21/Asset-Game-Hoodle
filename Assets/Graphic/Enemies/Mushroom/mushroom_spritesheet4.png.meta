@@ -93,6 +93,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -102,8 +103,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -124,6 +125,8 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
@@ -722,6 +725,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      mushroom_spritesheet4_17: -5141422564615582093
+      dead2: 4793096360256117289
+      run5: -4060279738427329340
+      run3: -1171188222237987069
+      run7: -6991359646151471996
+      mushroom_spritesheet4_16: 8714518392272476211
+      run4: -8415871380678735321
+      jump6: -836803923869558838
+      run8: 2653609181098294436
+      run2: 1794104190600796872
+      jump4: -5635021826250542350
+      jump1: 3528394907524115124
+      dead1: 8177858464505589420
+      run6: -8764438909727890371
+      mushroom_spritesheet4_18: -9058279388398857991
+      hurt3: 127580737565284190
+      mushroom_spritesheet4_20: -1573171343433308688
+      jump5: -8365632440152274359
+      run1: 3902411425006976200
+      jump2: 8333035390472367031
+      jump3: -2159267216148749650
+      mushroom_spritesheet4_21: -2642154302908753901
+      mushroom_spritesheet4_19: -5215336269879300083
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

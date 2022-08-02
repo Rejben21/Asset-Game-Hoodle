@@ -168,6 +168,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -177,8 +178,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -199,6 +200,8 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
@@ -1322,6 +1325,55 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Wasteland-Files_10: -7709487935712729354
+      Wasteland-Files_20: 6318140915392998915
+      Wasteland-Files_16: -5401816950491729245
+      Wasteland-Files_17: -6214515562381486991
+      Wasteland-Files_30: 2472349632181845486
+      Wasteland-Files_57: -4617861054280731659
+      Wasteland-Files_31: -8850646936133712568
+      Wasteland-Files_14: -7150785271023723508
+      Wasteland-Files_34: -6539147165902663202
+      Wasteland-Files_0: -5009175897739757725
+      Wasteland-Files_23: 3343285283335237647
+      Wasteland-Files_33: -434347392480656658
+      Wasteland-Files_43: -977066657300012544
+      Wasteland-Files_9: -5656984376889979709
+      Wasteland-Files_18: 3822830255387112860
+      Wasteland-Files_26: -3847609097802227114
+      Wasteland-Files_13: -3188899314811879041
+      Wasteland-Files_40: 526522620273848361
+      Wasteland-Files_28: -8310006213554914174
+      Wasteland-Files_27: 5105349975658415830
+      Wasteland-Files_12: -7421627774083863198
+      Wasteland-Files_32: 5835800124121658946
+      Wasteland-Files_35: -5386973614815623368
+      Wasteland-Files_11: 4454046651481978072
+      Wasteland-Files_22: 1888862166462719158
+      Wasteland-Files_21: -7339646329574996985
+      Wasteland-Files_51: 1681158656354904702
+      Wasteland-Files_8: 4283657712765112710
+      Wasteland-Files_37: -1857757419772730350
+      Wasteland-Files_38: -5860329520186344009
+      Wasteland-Files_24: -3328814510721419577
+      Wasteland-Files_39: 8217087925881846809
+      Wasteland-Files_44: -4772916334962121315
+      Wasteland-Files_41: 3699906319716095535
+      Wasteland-Files_1: 6387321726426987482
+      Wasteland-Files_54: -6098666622445844799
+      Wasteland-Files_29: -4092136365864451075
+      Wasteland-Files_56: -3324219796986336929
+      Wasteland-Files_15: -1686293458281269898
+      Wasteland-Files_7: -8878904819087269197
+      Wasteland-Files_42: -1949570324740792872
+      Wasteland-Files_25: -6625015160611382563
+      Wasteland-Files_45: 6472015999954105396
+      Wasteland-Files_52: -4178657776047220088
+      Wasteland-Files_19: -3728813740238654318
+      Wasteland-Files_55: -7856760218806843025
+      Wasteland-Files_53: -7918266106001317818
+      Wasteland-Files_36: -6630054944640236217
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
